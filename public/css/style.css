@@ -1,0 +1,24 @@
+.content {
+	display: flex;
+	position: relative;
+	height: fit-content;
+	width: 100%;
+}
+
+.img-container {
+	margin: auto;
+}
+
+img {
+	border-radius: 100%;
+	border:  10px solid;
+	position: relative;
+}
+
+@media screen and (max-width: 670px){
+
+	.content {
+		display: block;
+		text-align: center;
+	}
+}

@@ -1,8 +1,5 @@
 # Vianuvem Frontend Test
 
-To install and start the API server, run the following commands in this directory:
+Teste desenvolvido por Ciro Koshiyama, por solicitação de Leonardo Martins
 
-* `npm install`
-* `node server`
 
-Open localhost:3001 to get more informations
